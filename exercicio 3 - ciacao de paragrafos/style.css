@@ -1,0 +1,12 @@
+.paragrafo{
+    margin: 40px;
+    padding: 20px;
+}
+.texto1{
+    box-sizing: border-box;
+    background-color: #F5F5F5;
+}
+.texto2{
+    box-sizing: border-box;
+    background-color: #F0CCE2;
+}

@@ -1,0 +1,36 @@
+html{
+   background-image: url(imagens/Carrefour.webp);
+   background-size: cover;
+   background-repeat: no-repeat;  
+}
+
+h1{
+    font-size: 4rem;
+    margin: 10% 0% 0% 15%;
+}
+
+h2{
+    font-size: 3rem;
+    margin: 2% 0% 0% 20%;
+}
+
+h3{
+    font-size: 2rem;
+    margin: 3% 0% 0% 5%
+}
+
+p{
+    margin: 0% 0% 0% 72.5%;
+    font-size: 3.5rem;
+}
+
+#destaque{
+    color: #e30d0c;
+    font-size: 3rem; 
+}
+
+#preco-total{
+    font-size: 6rem;
+    margin: 0% 15% 0% 67%;
+    border: 4px solid black;
+}
